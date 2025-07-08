@@ -59,3 +59,5 @@ while !solved {
 
 print("curent number: \(current_number), starting number: \(starting_number)")
 print("repeatng numbers list\(repeated_numbers)")
+
+print("remeber to publish your findings on the Collatz conjecture!")

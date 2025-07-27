@@ -9,12 +9,6 @@ var repeated_numbers: [Int: Int] = [:]
 var mode: Int = 1 // 1 for highest number possible, 2 for sequence to 1
 
 if mode == 1 {
-    var starting_number = 20
-} else {
-    var starting_number = 999999999999999888
-}
-
-while !solved {
     // Restart the sequence with a new starting number
     if restart_new_number {
         current_number = starting_number
